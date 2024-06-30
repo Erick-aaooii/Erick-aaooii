@@ -5,7 +5,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-aaooii/)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/pt/profile/31685044)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-aaooii&show_icons=true&theme=onedark)
+<a href="https://github.com/Erick-aaooii/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Erick-aaooii" />
+</a>
+<a href="https://github.com/Erick-aaooii/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick-aaooii&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## Technologies I know:
 <div style="display: inline-block">
