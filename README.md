@@ -3,12 +3,15 @@
 <p>Atual Analista de dados e Programador Back-end com experiência em criação de Api-Rest, modelagem de Banco de Dados e Cloud</p>
 
 ---
+### Serviços:
+- Criação e manutenção de apis Rest.
+- Análise de dados de serviços.
+- Criação de Banco de dados.
 
 <div align="center">
 
 <h3>Conecte-se comigo:</h3>
 
-  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erick_aaooii/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-aaooii/)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/pt/profile/31685044)
@@ -17,7 +20,7 @@
 
 ---
 
-<div align="center">
+<div align="inline">
   <a href="https://github.com/Erick-aaooii/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Erick-aaooii&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
   </a>
