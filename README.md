@@ -12,10 +12,20 @@
 
 <h3>Conecte-se comigo:</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erick_aaooii/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-aaooii/)
-[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/pt/profile/31685044)
-  
+<a href="https://www.linkedin.com/in/erick-aaooii/">
+  <img src="https://github.com/user-attachments/assets/476a7cf5-edfc-4197-ad85-2de76e7d5e8f" alt="linkedin" width="40">
+</a>
+
+
+<a href="https://www.instagram.com/erick_aaooii/">
+  <img src="https://github.com/user-attachments/assets/89eb53eb-0ac5-46d2-8975-301bc222cb79" alt="linkedin" width="40"> 
+</a>
+
+
+<a href="https://www.sololearn.com/pt/profile/31685044">
+  <img src="https://user-images.githubusercontent.com/85949077/209679170-ea4545b5-727c-461b-a757-d1aac012b69b.png" alt="Sololearn" width="40">
+</a>
+
 </div>
 
 ---
@@ -29,17 +39,24 @@
   </a>
 </div>
 
+
+
 ---
 
 ## 💻 Tecnologias que eu uso:
 
 <p>Aqui estão algumas das principais tecnologias com as quais trabalho:</p>
 <div style="display: inline-block">
-  <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-  <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="Spring Boot" src="https://github.com/user-attachments/assets/0760ab19-c767-48c5-a800-73c888dad201" width="40">
+  <img align="center" alt="Pandas" src="https://github.com/user-attachments/assets/dbe15071-b685-4658-9b75-6e0e0125ff64" width="40">
+  <img align="center" alt="Flask" src="https://github.com/user-attachments/assets/a707be78-9d2d-4893-acd2-82f9183012a5" width="40">
+  <img align="center" alt="PostgreSQL" src="https://github.com/user-attachments/assets/8862c3a2-594c-4526-9623-eb5ecbea50ca" width="40">
+  <img align="center" alt="Firebase" src="https://github.com/user-attachments/assets/993105f3-1376-474b-a70c-4fbbb8f5421d" width="40">
+  <img align="center" alt="Tailwind CSS" src="https://github.com/user-attachments/assets/f9233651-ebe1-4c8f-a468-23a75c643ca8" width="40">
+  <img align="center" alt="Angular" src="https://github.com/user-attachments/assets/43c5806e-2c72-4e7c-976b-0d6a91b758c0" width="40">
+  <img align="center" alt="Gradle" src="https://github.com/user-attachments/assets/abd13d26-71ca-4572-9355-8c64de0d2038" width="40">
+  <img align="center" alt="Typescript" src="https://github.com/user-attachments/assets/12e5b8c9-4b83-474d-9f08-b72c745032c9" width="40">
+  <img align="center" alt="Insomnia" src="https://github.com/user-attachments/assets/1355c786-08fa-4758-8d4b-9de2e565ed19" width="40">
+  <img align="center" alt="Neovim" src="https://github.com/user-attachments/assets/b9cb6141-fba4-4c4b-9932-451d88543ec5" width="40">
+
 </div>
