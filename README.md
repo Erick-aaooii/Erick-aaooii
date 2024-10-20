@@ -32,10 +32,10 @@
 
 <div style="text-align: center;">
   <a href="https://github.com/Erick-aaooii/github-readme-stats" style="display: inline-block; margin: 10px;">
-    <img height=160 src="https://github-readme-stats.vercel.app/api?username=Erick-aaooii&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api?username=Erick-aaooii&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Erick-aaooii/convoychat" style="display: inline-block; margin: 10px;">
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick-aaooii&layout=compact&langs_count=8&card_width=320&theme=onedark&hide_border=true" alt="Linguagens Mais Usadas" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick-aaooii&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide_border=true" alt="Linguagens Mais Usadas" />
   </a>
 </div>
 
