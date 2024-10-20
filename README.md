@@ -12,19 +12,10 @@
 
 <h3>Conecte-se comigo:</h3>
 
-<a href="https://www.linkedin.com/in/erick-aaooii/">
-  <img src="https://github.com/user-attachments/assets/476a7cf5-edfc-4197-ad85-2de76e7d5e8f" alt="linkedin" width="40">
-</a>
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erick-aaooii/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/erick_aaooii/)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/pt/profile/31685044)
 
-
-<a href="https://www.instagram.com/erick_aaooii/">
-  <img src="https://github.com/user-attachments/assets/89eb53eb-0ac5-46d2-8975-301bc222cb79" alt="linkedin" width="40"> 
-</a>
-
-
-<a href="https://www.sololearn.com/pt/profile/31685044">
-  <img src="https://user-images.githubusercontent.com/85949077/209679170-ea4545b5-727c-461b-a757-d1aac012b69b.png" alt="Sololearn" width="40">
-</a>
 
 </div>
 
@@ -42,10 +33,12 @@
 
 
 ---
-
+<div align="center">
+  
 ## 💻 Tecnologias que eu uso:
 
 <p>Aqui estão algumas das principais tecnologias com as quais trabalho:</p>
+
 <div style="display: inline-block">
   <img align="center" alt="Spring Boot" src="https://github.com/user-attachments/assets/0760ab19-c767-48c5-a800-73c888dad201" width="40">
   <img align="center" alt="Pandas" src="https://github.com/user-attachments/assets/dbe15071-b685-4658-9b75-6e0e0125ff64" width="40">
@@ -59,4 +52,5 @@
   <img align="center" alt="Insomnia" src="https://github.com/user-attachments/assets/1355c786-08fa-4758-8d4b-9de2e565ed19" width="40">
   <img align="center" alt="Neovim" src="https://github.com/user-attachments/assets/b9cb6141-fba4-4c4b-9932-451d88543ec5" width="40">
 
+</div>
 </div>
