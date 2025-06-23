@@ -1,56 +1,55 @@
-<h1 align="center">Erick Andres &#128123;</h1>
+<div align="center">
 
-<p>Atual Analista de dados e Programador Back-end com experiência em criação de Api-Rest, modelagem de Banco de Dados e Cloud</p>
+![Erick_Andres](/assets/Erick%20Andres.svg)
 
----
-### Serviços:
-- Criação e manutenção de apis Rest.
-- Análise de dados de serviços.
-- Criação de Banco de dados.
+</div>
+<p align="center">
+Atualmente atuo como <strong>Analista de Dados</strong> e <strong>Desenvolvedor Back-end</strong>, com experiência em <strong>desenvolvimento de APIs REST</strong>, <strong>modelagem de banco de dados</strong> e <strong>criação de páginas web</strong>. Tenho conhecimentos tanto em tecnologias de <strong>front-end</strong> quanto de <strong>back-end</strong>, além de habilidades em <strong>análise e visualização de dados</strong>. Busco constantemente evoluir como <strong>Fullstack Júnior</strong> e <strong>Analista de Dados</strong>, aplicando boas práticas de desenvolvimento e análise.
+</p>
+
+![Conecte-se comigo:](/assets/Group%201.svg)
 
 <div align="center">
 
-<h3>Conecte-se comigo:</h3>
-
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erick-aaooii/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/erick_aaooii/)
-[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/pt/profile/31685044)
-
-
+  [![Linkedin](/assets/linkedin.svg)](https://www.linkedin.com/in/erick2004andres/)
+  [![Instagram](/assets/instagram.svg)](https://www.instagram.com/stories/erick_aaooii/)
+  [![Spotify](/assets/spotify.svg)](https://open.spotify.com/user/31vfejvqxtf35bkqn6miukr7bjy4?si=9eb7d745968f4965)
+  
 </div>
 
 ---
 
-<div style="text-align: center;">
-  <a href="https://github.com/Erick-aaooii/github-readme-stats" style="display: inline-block; margin: 10px;">
-    <img height=160 src="https://github-readme-stats.vercel.app/api?username=Erick-aaooii&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Erick-aaooii/convoychat" style="display: inline-block; margin: 10px;">
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick-aaooii&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide_border=true" alt="Linguagens Mais Usadas" />
-  </a>
+![Estatísticas](/assets/Group%201(1).svg)
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Erick-aaooii&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick-aaooii&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
 </div>
 
-
-
 ---
+
+![Tecnologias que uso](/assets/Group%201(2).svg)
+
 <div align="center">
   
-## 💻 Tecnologias que eu uso:
+  ![SpringBoot](/assets/devicon--spring.svg)
+  ![Angular](./assets/devicon--angular.svg)
+  ![Pandas](/assets/devicon--pandas.svg)
+  ![Flask](/assets/devicon--flask.svg)
+  ![PostgreSQL](/assets/devicon--postgresql.svg)
+  ![Firebase](/assets/devicon--firebase.svg)
+  ![Tailwind](/assets/devicon--tailwindcss.svg)
+  ![Gradle](/assets/devicon--gradle.svg)
+  ![Insomnia](/assets/devicon--insomnia.svg)
+  ![Dbeaver](/assets/devicon--dbeaver.svg)
+  ![Docker](/assets/devicon--docker.svg)
+  ![FastApi](/assets/devicon--fastapi.svg)
+  ![Figma](/assets/devicon--figma.svg)
+  ![Maven](/assets/devicon--maven.svg)
+  ![Spring](/assets/devicon--spring.svg)
+  ![Sass](/assets/devicon--sass.svg)
+  ![Jenkins](/assets/devicon--jenkins.svg)
+  ![Node](/assets/devicon--nodejs.svg)
+  ![React](/assets/devicon--react.svg)
 
-<p>Aqui estão algumas das principais tecnologias com as quais trabalho:</p>
-
-<div style="display: inline-block">
-  <img align="center" alt="Spring Boot" src="https://github.com/user-attachments/assets/0760ab19-c767-48c5-a800-73c888dad201" width="40">
-  <img align="center" alt="Pandas" src="https://github.com/user-attachments/assets/dbe15071-b685-4658-9b75-6e0e0125ff64" width="40">
-  <img align="center" alt="Flask" src="https://github.com/user-attachments/assets/a707be78-9d2d-4893-acd2-82f9183012a5" width="40">
-  <img align="center" alt="PostgreSQL" src="https://github.com/user-attachments/assets/8862c3a2-594c-4526-9623-eb5ecbea50ca" width="40">
-  <img align="center" alt="Firebase" src="https://github.com/user-attachments/assets/993105f3-1376-474b-a70c-4fbbb8f5421d" width="40">
-  <img align="center" alt="Tailwind CSS" src="https://github.com/user-attachments/assets/f9233651-ebe1-4c8f-a468-23a75c643ca8" width="40">
-  <img align="center" alt="Angular" src="https://github.com/user-attachments/assets/43c5806e-2c72-4e7c-976b-0d6a91b758c0" width="40">
-  <img align="center" alt="Gradle" src="https://github.com/user-attachments/assets/abd13d26-71ca-4572-9355-8c64de0d2038" width="40">
-  <img align="center" alt="Typescript" src="https://github.com/user-attachments/assets/12e5b8c9-4b83-474d-9f08-b72c745032c9" width="40">
-  <img align="center" alt="Insomnia" src="https://github.com/user-attachments/assets/1355c786-08fa-4758-8d4b-9de2e565ed19" width="40">
-  <img align="center" alt="Neovim" src="https://github.com/user-attachments/assets/b9cb6141-fba4-4c4b-9932-451d88543ec5" width="40">
-
-</div>
 </div>
